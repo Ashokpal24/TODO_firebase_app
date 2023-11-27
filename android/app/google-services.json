@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "89522633495",
+    "project_id": "fir-flutter-todo-69625",
+    "storage_bucket": "fir-flutter-todo-69625.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89522633495:android:bc8c024fb1807c163fd552",
+        "android_client_info": {
+          "package_name": "com.example.todo_firbase_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyxUV5hl5m65TIBMFW7S9ip6fq9Iyyb7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
